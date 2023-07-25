@@ -1,1 +1,2 @@
 # Point-Process-Analyses-CoxPH-Modelling
+This Notebook is all about point processes. Throughout this sheet i will slowly increase the complexity of analysis of point processes. The datasets used are synthetic datasets of patients and their visits to the hospital. I will start with a simple survival model of an event happening once (the second doctors visit). I will then consider a process with events that can happen multiple times. Finally I will also be considering covariates that vary with time using CoxPH.
